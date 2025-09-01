@@ -1,0 +1,38 @@
+# Configuration générale du site
+title: "Aboubacar Mahamadou"
+description: >-
+  Statisticien | Étudiant en Finance & Comptabilité | Analyste de données.
+  Passionné par l'analyse statistique, la data science et la modélisation.
+logo: "/assets/img/profile.png"   # Facultatif : photo de profil
+
+# Auteur et contact
+author:
+  name: "Aboubacar Mahamadou"
+  email: "aboubacarmahamadou9638@gmail.com"
+  phone: "+223 96 38 16 26"
+  linkedin: "https://www.linkedin.com/in/tonprofil"   # Remplace par ton vrai lien LinkedIn
+  github: "https://github.com/Diallo2025BM"
+
+# Thème Jekyll
+theme: jekyll-theme-minimal
+
+# Navigation du site
+nav:
+  - name: "Accueil"
+    link: "/"
+  - name: "CV"
+    link: "/cv"
+  - name: "Projets"
+    link: "/projets"
+  - name: "Contact"
+    link: "/contact"
+
+# Paramètres Markdown
+markdown: kramdown
+
+# Google Analytics (facultatif)
+google_analytics: ""
+
+# URL du site
+url: "https://Diallo2025BM.github.io"
+baseurl: ""
