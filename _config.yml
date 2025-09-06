@@ -4,7 +4,7 @@ description: >-
   Statisticien | Étudiant en Finance & Comptabilité | Analyste de données.
   Passionné par l'analyse statistique, la data science et la modélisation.
 logo: img/profile.jpg   # Facultatif : photo de profil
-
+show_downloads: true
 # Auteur et contact
 author:
   name: "Aboubacar Mahamadou"
