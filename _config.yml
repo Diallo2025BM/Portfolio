@@ -3,9 +3,11 @@ title: "Aboubacar Mahamadou"
 description: >-
   Statisticien | Étudiant en Finance & Comptabilité | Analyste de données.
   Passionné par l'analyse statistique, la data science et la modélisation.
-logo:assets/img/profile.jpg
+
 show_downloads: true
 # Auteur et contact
+logo:
+"assets/img/profile.jpg"
 author:
   name: "Aboubacar Mahamadou"
   email: "aboubacarmahamadou9638@gmail.com"
