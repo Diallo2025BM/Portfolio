@@ -6,6 +6,8 @@ description: >-
 logo:assets/img/profile.jpg
 show_downloads: true
 # Auteur et contact
+logo:
+ assets/img/profile.jpg
 author:
   name: "Aboubacar Mahamadou"
   email: "aboubacarmahamadou9638@gmail.com"
