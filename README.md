@@ -21,7 +21,7 @@ Curieux et proactif, j’apprécie le travail en équipe et la résolution de pr
 ## 💼 Expériences professionnelles  
 
 ### 📍 Stagiaire — **Institut National de la Statistique (INSTAT)**  
-*03 juin 2025 - 27 juillet 2025*  
+*03 juin 2024 - 27 juillet 2024*  
 - Collecte, traitement et analyse des données statistiques.  
 - Exploitation de bases de données pour générer des rapports stratégiques.  
 - Restitution des résultats aux acteurs concernés.  
